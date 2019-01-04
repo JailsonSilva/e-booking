@@ -4,10 +4,10 @@ Professor: Rodrigo Andrade
 
 Desenvolvedor:
 
-    Jailson JosÈ dos Santos Silva
+    Jailson Jos√© dos Santos Silva
 
 
-DescriÁ„o: 
+Descri√ß√£o: 
 	
-	Este È um projeto que visa desenvolver um Site busca de hotÈis e reserva de quarto, onde ser· possivel cadastrar e buscar por hotÈis, efetuar reserva de quarto.O projeto est· sendo desenvolvido com o framework Ruby on Rails, com o apoio das ferramentas RubyMine, Cucumber, Capybara e Slack
+	Este projeto que visa desenvolver um Site para busca de hot√©is e reserva de quarto, onde ser√° possivel cadastrar e buscar por hot√©is, efetuar reserva de quarto. O projeto est√° sendo desenvolvido com o framework Ruby on Rails, com o apoio das ferramentas RubyMine, Cucumber, Capybara e Slack
 
